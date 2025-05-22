@@ -2,7 +2,6 @@
 
 A modern, professional invoice management system built with React and Material-UI. Create, manage, and export professional invoices with ease.
 
-![XcelPay Invoice](https://via.placeholder.com/800x400?text=XcelPay+Invoice)
 
 ## Features
 
@@ -28,7 +27,7 @@ A modern, professional invoice management system built with React and Material-U
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/xcel-pay.git
+git clone https://github.com/htusse/xcelPay.git
 cd xcel-pay
 ```
 
@@ -111,7 +110,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you encounter any issues or have questions, please [open an issue](https://github.com/yourusername/xcel-pay/issues) in the GitHub repository.
+If you encounter any issues or have questions, please [open an issue](https://github.com/htusse/xcel-pay/issues) in the GitHub repository.
 
 ## Roadmap
 
@@ -126,6 +125,6 @@ If you encounter any issues or have questions, please [open an issue](https://gi
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Herve Tusse - [@website](https://xcellencetech.co.za)
 
-Project Link: [https://github.com/yourusername/xcel-pay](https://github.com/yourusername/xcel-pay)
+Project Link: [https://github.com/htusse/xcel-pay](https://github.com/htusse/xcel-pay)
